@@ -1,0 +1,8 @@
+[run]
+source = myproject
+omit = 
+    myproject/boards/migrations/*
+    myproject/myproject/*
+    myproject/boards/tests.py
+    myproject/boards/apps.py
+    myproject/manage.py
