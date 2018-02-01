@@ -4,8 +4,11 @@ verify_ssl = true
 url = "https://pypi.python.org/simple"
 
 [packages]
+
 django = "==1.11.4"
 coverage = "*"
+prospector = "*"
+"django-widget-tweaks" = "*"
 
 
 
