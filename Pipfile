@@ -9,6 +9,7 @@ django = "==1.11.4"
 coverage = "*"
 prospector = "*"
 "django-widget-tweaks" = "*"
+"autopep8" = "*"
 
 
 
